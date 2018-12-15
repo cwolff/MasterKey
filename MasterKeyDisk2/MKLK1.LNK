@@ -1,0 +1,5 @@
+c:mkmenu+c:mkcopyu+c:mkkeyu+c:mkdisu+c:mkpmptu+
+c:mkerru+c:mkmapu+c:mklook+c:mkint13+c:mkdatacmmn+:koy+:keucmds+:kmt+
+:krucmmp+:kokcmit3cmdtmn:o+kums:m+:rcm+kkmtcdnokm:+rmkmcom+mmmmmmj;
+asm c:mkdisu.asm,c:mkdisu.obj;
+asm c:mkkeyu.asm,c:mkkeyu.obj;
